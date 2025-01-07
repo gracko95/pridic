@@ -3,7 +3,7 @@ Type: Package
 Title: PRIDIC Manhattan Plotter
 Version: 0.1.0
 Author: Grace Koo
-Maintainer: The package maintainer <yourself@somewhere.net>
+Maintainer: koogc@miamioh.edu
 Description: Contains function to help visualize Manhattan Plots using model organism dataset.
 Encoding: UTF-8
 LazyData: true
